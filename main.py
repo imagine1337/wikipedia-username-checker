@@ -1,3 +1,4 @@
+#checks wikipedia for available usernames
 import requests,json
 users=[]
 for user in users:
